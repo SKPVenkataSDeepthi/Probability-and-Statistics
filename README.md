@@ -1,6 +1,6 @@
 # Probability and Statistics: Python & R Implementation
 
-## ![Background](https://cdn.dribbble.com/users/1844549/screenshots/14126860/media/894545bb9f5d3d16bc3e1e3e00f2b579.gif)
+## ![Background](https://media.tenor.com/iaMrUbBGbyIAAAAM/fred-flintstone-barney-rubble.gif)
 
 This repository serves as a comprehensive guide to key concepts in probability and statistics, with implementations in both Python and R. 
 
